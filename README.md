@@ -1,5 +1,7 @@
 # ⏱️ Codeforces Problem Timer
 
+![Preview 2](preview_2.png)
+
 A lightweight, highly integrated Chrome extension built for competitive programmers to track their problem-solving speed directly on [Codeforces](https://codeforces.com).
 
 ## ✨ Features
@@ -15,9 +17,9 @@ A lightweight, highly integrated Chrome extension built for competitive programm
 Currently, this extension can be installed manually via Chrome's Developer Mode:
 
 1. Clone this repository to your local machine:
-   \`\`\`bash
-   git clone https://github.com/Ayush-Pekamwar/CF_Timer.git
-   \`\`\`
+   ```bash
+      git clone https://github.com/Ayush-Pekamwar/CF_Timer.git
+   ```
    *(Or click the green **Code** button and download the ZIP file).*
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Turn on **Developer mode** (the toggle switch in the top right corner).
