@@ -1,6 +1,6 @@
 # ⏱️ Codeforces Problem Timer
 
-![Preview 2](preview_2.png)
+![Preview 2](preview/preview_2.png)
 
 A lightweight, highly integrated Chrome extension built for competitive programmers to track their problem-solving speed directly on [Codeforces](https://codeforces.com).
 
