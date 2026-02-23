@@ -1,0 +1,76 @@
+#cf-timer-container {
+  /* Position is now entirely handled by JavaScript */
+  background-color: #f8f8f8;
+  border: 1px solid #b9b9b9;
+  border-radius: 6px;
+  padding: 20px 15px 10px 15px; 
+  z-index: 9999;
+  font-family: verdana, arial, sans-serif;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  text-align: center;
+  min-width: 120px;
+  cursor: grab;
+  user-select: none;
+  margin: 0;
+}
+
+#cf-timer-container:active {
+  cursor: grabbing;
+}
+
+#cf-timer-container.pinned {
+  cursor: default !important;
+}
+
+#cf-pin-btn {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  opacity: 0.5;
+  transition: opacity 0.2s;
+}
+
+#cf-pin-btn:hover {
+  opacity: 1;
+}
+
+#cf-timer-display {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #222;
+  display: block;
+  margin-bottom: 12px;
+}
+
+.cf-timer-btn {
+  background-color: #e1e1e1;
+  border: 1px solid #aaa;
+  color: #000;
+  padding: 3px 10px;
+  font-size: 12px;
+  cursor: pointer;
+  border-radius: 3px;
+  font-family: verdana, arial, sans-serif;
+}
+
+#cf-start-pause {
+  background-color: #e8f0fe;
+  border-color: #1a73e8;
+  color: #1a73e8;
+  font-weight: bold;
+}
+#cf-start-pause:hover {
+  background-color: #d2e3fc;
+}
+
+#cf-reset {
+  background-color: #fce8e6;
+  border-color: #d93025;
+  color: #d93025;
+  font-weight: bold;
+}
+#cf-reset:hover {
+  background-color: #fad2cf;
+}
