@@ -12,20 +12,13 @@ A lightweight, highly integrated Chrome extension built for competitive programm
 * **100% Persistent & Accurate:** Powered by background timestamps and Chrome Local Storage. You can close the tab, switch windows, or restart your browser—your elapsed time is tracked with absolute precision.
 * **Per-Problem Memory:** Remembers your exact time, screen position, and pin preference for every individual problem URL.
 
-## 🛠️ Installation
 
-Currently, this extension can be installed manually via Chrome's Developer Mode:
-
-1. Clone this repository to your local machine:
-   ```bash
-      git clone https://github.com/Ayush-Pekamwar/CF_Timer.git
-   ```
-   *(Or click the green **Code** button and download the ZIP file).*
-2. Open Google Chrome and navigate to `chrome://extensions/`.
-3. Turn on **Developer mode** (the toggle switch in the top right corner).
-4. Click the **Load unpacked** button in the top left.
-5. Select the `CF_Timer` folder you just downloaded.
-6. Open any Codeforces problem, and the timer will appear in the bottom right corner!
+## 🛠️ How to Install 
+1. **Download:** Click the green **Code** button above and select **Download ZIP**.
+2. **Unzip:** Extract the file to a folder on your computer.
+3. **Open Chrome:** Go to `chrome://extensions/` in your address bar.
+4. **Enable Mode:** Toggle **Developer mode** on in the top right corner.
+5. **Load:** Click **Load unpacked** (top left) and select the folder you just unzipped.
 
 ## 🖱️ Usage
 
