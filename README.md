@@ -30,6 +30,7 @@ A lightweight, highly integrated Chrome extension built for competitive programm
 * **Reset:** Clears the time completely for the current problem.
 * **Drag:** Click and hold the empty space on the widget to move it around your screen.
 * **Pin (📌/📍):** Toggles between floating on your screen (follows you as you scroll) and sticking to the webpage (stays next to the problem text).
+* **Keybind for show/hide toggle:**: go to ```chrome://extensions/shortcuts``` , find this extension and set keybind for Show/Hide the Timer
 
 ## 💻 Tech Stack
 * **JavaScript (ES6+)** - Core timer logic, DOM manipulation, and drag-and-drop math.
