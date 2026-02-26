@@ -1,5 +1,7 @@
 # ⏱️ Codeforces Problem Timer
 
+## Chrome Extension Webstore : [Link](https://chromewebstore.google.com/detail/codeforces-problem-timer/bknhlcknbfkhobnmadgoeoahlachmndm) (Live here)
+
 ![Preview 2](preview/preview_2.png)
 
 A lightweight, highly integrated Chrome extension built for competitive programmers to track their problem-solving speed directly on [Codeforces](https://codeforces.com).
@@ -19,6 +21,8 @@ A lightweight, highly integrated Chrome extension built for competitive programm
 3. **Open Chrome:** Go to `chrome://extensions/` in your address bar.
 4. **Enable Mode:** Toggle **Developer mode** on in the top right corner.
 5. **Load:** Click **Load unpacked** (top left) and select the folder you just unzipped.
+
+### Or just use [Link](https://chromewebstore.google.com/detail/codeforces-problem-timer/bknhlcknbfkhobnmadgoeoahlachmndm) to install in your browser
 
 ## 🖱️ Usage
 
