@@ -8,10 +8,12 @@
 
 A lightweight, highly integrated Chrome extension built for competitive programmers to track their problem-solving speed directly on [Codeforces](https://codeforces.com).
 
+*Update: Now available on [CSES](https://cses.fi/problemset/list/) problem set as well
+
 ## ✨ Features
 
 * **Native UI Integration:** Styled precisely to match the classic Codeforces interface. It looks like it belongs there!
-* **Smart Auto-Stop:** Automatically pauses the timer the exact moment you click the "Submit" button.
+<!-- * **Smart Auto-Stop:** Automatically pauses the timer the exact moment you click the "Submit" button. -->
 * **Draggable & Pinnable:** Drag the timer anywhere on your screen. Click the 📌 icon to "pin" it to the document so it scrolls seamlessly with the page.
 * **100% Persistent & Accurate:** Powered by background timestamps and Chrome Local Storage. You can close the tab, switch windows, or restart your browser—your elapsed time is tracked with absolute precision.
 * **Per-Problem Memory:** Remembers your exact time, screen position, and pin preference for every individual problem URL.
