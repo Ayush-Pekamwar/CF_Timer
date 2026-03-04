@@ -4,7 +4,6 @@
 
 ## 🎥 Project Demo
 [![Watch the demo](https://img.youtube.com/vi/fce_U41Yxug/0.jpg)](https://www.youtube.com/watch?v=fce_U41Yxug)
-
 <!-- ![Preview 2](preview/preview_2.png) -->
 
 A lightweight, highly integrated Chrome extension built for competitive programmers to track their problem-solving speed directly on [Codeforces](https://codeforces.com).
